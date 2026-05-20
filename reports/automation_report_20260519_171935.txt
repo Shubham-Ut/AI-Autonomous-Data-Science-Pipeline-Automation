@@ -1,0 +1,27 @@
+
+AI Autonomous Data Science Company - ML Report
+
+Selected Target Column:
+Total_MismanagedPlasticWaste_2019 (millionT)
+
+Problem Type:
+Regression
+
+Best Model:
+Random Forest Regressor
+
+Best Score:
+0.142
+
+Test Size:
+0.2
+
+Dataset Rows Used:
+194
+
+Dataset Columns Used:
+4
+
+Conclusion:
+The Report Writer Agent generated this report after the ML Engineer Agent trained multiple models,
+compared their performance, selected the best model, and generated predictions.
